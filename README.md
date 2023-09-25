@@ -28,10 +28,3 @@ This boilerplate include:
 4. Run the tests with the Test Explorer
 5. The tests should run and pass
 6. You can also run the tests with the command `dotnet test` in the root directory of the repository
-
-## Upload your solution
-
-1. Clone this repository
-2. Create a new branch with this structure [YYYY-MM]/[kata_name]/[partner]-[partner2] (Example: 2020-01/roman-numerals/John-Mary)
-3. Commit your solution to the branch
-4. Push the branch to the remote repository
